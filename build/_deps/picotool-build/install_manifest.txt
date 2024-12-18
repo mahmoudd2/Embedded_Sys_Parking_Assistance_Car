@@ -1,0 +1,5 @@
+C:/Users/Mahmoud/Desktop/FINAL_RTOS/rp2040-freertos-template/build/_deps/picotool/picotool.exe
+C:/Users/Mahmoud/Desktop/FINAL_RTOS/rp2040-freertos-template/build/_deps/picotool/picotoolTargets.cmake
+C:/Users/Mahmoud/Desktop/FINAL_RTOS/rp2040-freertos-template/build/_deps/picotool/picotoolTargets-release.cmake
+C:/Users/Mahmoud/Desktop/FINAL_RTOS/rp2040-freertos-template/build/_deps/picotool/picotoolConfig.cmake
+C:/Users/Mahmoud/Desktop/FINAL_RTOS/rp2040-freertos-template/build/_deps/picotool/picotoolConfigVersion.cmake
